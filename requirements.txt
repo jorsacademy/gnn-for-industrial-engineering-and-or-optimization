@@ -1,0 +1,10 @@
+# Core notebook and solver-in-the-loop dependencies
+# Select the PyTorch/CUDA build appropriate for your system from the official PyTorch installation guide.
+torch
+torch-geometric
+networkx
+numpy
+scipy
+matplotlib
+jupyter
+pyscipopt
